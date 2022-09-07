@@ -1,0 +1,18 @@
+#wrapper{
+    max-width:760px;
+    margin:0 auto;
+}
+#header{
+    background: aqua;
+    text-align:center;
+    padding:10px;
+}
+#footer{
+    background: aqua;
+    text-align: center;
+    padding:15px;
+}
+
+#wp-content{
+    display:flex;
+}
